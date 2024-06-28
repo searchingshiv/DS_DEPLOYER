@@ -2,3 +2,12 @@ flask
 gunicorn
 requests
 uv
+# --- For-Bot-Working --------- #
+pyrogram
+TgCrypto
+pyromod==1.5
+# --- For-Database ------------ #
+pymongo
+dnspython
+# --- For-Web-Response ------- #
+aiohttp
